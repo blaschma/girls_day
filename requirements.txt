@@ -150,53 +150,6 @@ python-dateutil==2.8.2
     # via
     #   jupyter-client
     #   matplotlib
-pywinpty==2.0.5
-    # via terminado
-pyzmq==22.3.0
-    # via
-    #   jupyter-client
-    #   notebook
-send2trash==1.8.0
-    # via notebook
-six==1.16.0
-    # via
-    #   asttokens
-    #   bleach
-    #   python-dateutil
-soupsieve==2.3.2.post1
-    # via beautifulsoup4
-stack-data==0.2.0
-    # via ipython
-terminado==0.13.3
-    # via notebook
-tinycss2==1.1.1
-    # via nbconvert
-tornado==6.1
-    # via
-    #   ipykernel
-    #   jupyter-client
-    #   notebook
-    #   terminado
-traitlets==5.1.1
-    # via
-    #   ipykernel
-    #   ipython
-    #   ipywidgets
-    #   jupyter-client
-    #   jupyter-core
-    #   matplotlib-inline
-    #   nbclient
-    #   nbconvert
-    #   nbformat
-    #   notebook
-wcwidth==0.2.5
-    # via prompt-toolkit
-webencodings==0.5.1
-    # via
-    #   bleach
-    #   tinycss2
-widgetsnbextension==3.6.0
-    # via ipywidgets
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
